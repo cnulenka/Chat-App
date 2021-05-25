@@ -1,1 +1,5 @@
 __pycache__
+/frontend/.cache
+/frontend/dist
+/frontend/node_modules
+/src/db.sqlite3
